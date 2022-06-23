@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as a Full-time Mobile App Developer at Akaar IT LTD.
 
-- 🌱 I’m currently learning **Data Structures and Algorithms, Machine Learning (ML), Augmented Reality (AR), System Design**
+- 🌱 I’m currently learning **Machine Learning (ML), Augmented Reality (AR), System Design**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
