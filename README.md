@@ -5,9 +5,9 @@
 ## 🙋‍♂️ About Me
 
 
-- 🔭 I’m currently working as a Full-time Mobile App Developer at Akaar IT LTD.
+- 🔭 I’m currently working as a Full-time Software Engineer (Mobile) at Qtec Solution Limited.
 
-- 🌱 I’m currently learning **Machine Learning (ML), Augmented Reality (AR), System Design**
+- 🌱 I’m currently learning **Explore Advance Flutter, Machine Learning (ML), Augmented Reality (AR)**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
